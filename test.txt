@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 revert123
 =======
 >>>>>>> parent of b10e976 (Update test.txt)
+=======
+>>>>>>> parent of 3e82adc (Reapply "Update test.txt")
