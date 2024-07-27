@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 revert123
+=======
+>>>>>>> parent of b10e976 (Update test.txt)
